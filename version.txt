@@ -1,4 +1,10 @@
-1.0.0.0
+Current Version is 0.1 (Alpha)
+
+
+
 PLEASE CHECK YOUR APPS VERSION 
 IF IT DOES NOT MATCH PLEASE DELETE THE OLD FILES 
 AND DOWNLOAD THE LATEST VERSION :)
+
+
+https://github.com/Sloushi/Curved-Triangle/releases
